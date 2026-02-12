@@ -1,2 +1,2 @@
 # test
-this is just test repository
+첫 브랜치입니다
